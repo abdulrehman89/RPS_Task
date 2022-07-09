@@ -1,0 +1,17 @@
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\bin\Debug\netcoreapp3.1\RPS_TaskApp.exe
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\bin\Debug\netcoreapp3.1\RPS_TaskApp.deps.json
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\bin\Debug\netcoreapp3.1\RPS_TaskApp.runtimeconfig.json
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\bin\Debug\netcoreapp3.1\RPS_TaskApp.runtimeconfig.dev.json
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\bin\Debug\netcoreapp3.1\RPS_TaskApp.dll
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\bin\Debug\netcoreapp3.1\RPS_TaskApp.pdb
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\obj\Debug\netcoreapp3.1\RPS_TaskApp.csproj.AssemblyReference.cache
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\obj\Debug\netcoreapp3.1\RPS_TaskApp.Form1.resources
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\obj\Debug\netcoreapp3.1\RPS_TaskApp.csproj.GenerateResource.cache
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\obj\Debug\netcoreapp3.1\RPS_TaskApp.AssemblyInfoInputs.cache
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\obj\Debug\netcoreapp3.1\RPS_TaskApp.AssemblyInfo.cs
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\obj\Debug\netcoreapp3.1\RPS_TaskApp.csproj.CoreCompileInputs.cache
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\obj\Debug\netcoreapp3.1\RPS_TaskApp.dll
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\obj\Debug\netcoreapp3.1\RPS_TaskApp.pdb
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\obj\Debug\netcoreapp3.1\RPS_TaskApp.genruntimeconfig.cache
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\obj\Debug\netcoreapp3.1\RPS_TaskApp.ManualGame.resources
+C:\Users\rehman.kausar\source\repos\ConsoleApp2\RPS_TaskApp\obj\Debug\netcoreapp3.1\RPS_TaskApp.SimulatedGame.resources
